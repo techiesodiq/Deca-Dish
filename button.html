@@ -1,0 +1,32 @@
+<html>
+<body>
+
+<h3>Trigger Button Click on Enter</h3>
+<p>Press the "Enter" key inside the input field to trigger the button.</p>
+
+<input id="myInput" value="Some text..">
+<button id="myBtn" onclick="javascript:alert('Order 1 placed')">Order 001</button>
+<button id="myBtn2" onclick="javascript:alert('Order 2 placed')">Order 002</button>
+<button id="myBtn3" onclick="javascript:alert('Order 3 placed')">Order 003</button>
+<button id="myBtn4" onclick="javascript:alert('Order 4 placed')">Order 004</button>
+<button id="myBtn5" onclick="javascript:alert('Order 5 placed')">Order 005</button>
+<button id="myBtn6" onclick="javascript:alert('Order 6 placed')">Order 006</button>
+<button id="myBtn7" onclick="javascript:alert('Order 7 placed')">Order 007</button>
+<button id="myBtn8" onclick="javascript:alert('Order 8 placed')">Order 008</button>
+<button id="myBtn9" onclick="javascript:alert('Order 9 placed')">Order 009</button>
+<button id="myBtn10" onclick="javascript:alert('Order 10 placed')">Order 010</button>
+<button id="myBtn11" onclick="javascript:alert('Order 11 placed')">Order 011</button>
+<button id="myBtn12" onclick="javascript:alert('Order 12 placed')">Order 012</button>
+
+<script>
+var input = document.getElementById("myInput");
+input.addEventListener("keyup", function(event) {
+  if (event.keyCode === 13) {
+   event.preventDefault();
+   document.getElementById("myBtn").click();
+  }
+});
+</script>
+
+</body>
+</html>

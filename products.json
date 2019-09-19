@@ -1,0 +1,76 @@
+{
+  "foods": [
+    {
+      "name" : "Baked beans",
+      "price" : 400,
+      "image" : "beans.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "Suya",
+      "price" : 1000,
+      "image" : "suya.jpg",
+      "type" : "meat"
+    },
+    {
+      "name" : "Kilishi",
+      "price" : 600,
+      "image" : "kilishi.jpg",
+      "type" : "meat"
+    },
+    {
+      "name" : "Refried beans",
+      "price" : 1000,
+      "image" : "refried.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "kidney beans",
+      "price" : 500,
+      "image" : "kidney.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "Amala and Ewedu",
+      "price" : 1000,
+      "image" : "Amala-and-Ewedu-soup.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "Edikaikong",
+      "price" : 800,
+      "image" : "Edikaikong.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "Corned beef",
+      "price" : 999,
+      "image" : "cornedbeef.jpg",
+      "type" : "meat"
+    },
+    {
+      "name" : "Okro soup",
+      "price" : 800,
+      "image" : "Okro.jpg",
+      "type" : "soup"
+    },
+    {
+      "name" : "Bitter leaf",
+      "price" : 1000,
+      "image" : "Slider3.jpg",
+      "type" : "vegetables"
+    },
+    {
+      "name" : "Chicken noodle soup",
+      "price" : 799,
+      "image" : "chickennoodle.jpg",
+      "type" : "soup"
+    },
+    {
+      "name" : "Egusi soup",
+      "price" : 999,
+      "image" : "Slider2.jpg",
+      "type" : "soup"
+    }
+  ]
+}
