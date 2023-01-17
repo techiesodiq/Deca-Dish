@@ -1,1 +1,2 @@
-This is a readme file for an online food ordering platform prepared by Sodiq Akanmu
+This is a readme file for an online food ordering platform 
+Project prepared by Sodiq Akanmu for Decagon
